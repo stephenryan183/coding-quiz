@@ -1,4 +1,0 @@
-# coding-quiz
-
-
-red meeee
