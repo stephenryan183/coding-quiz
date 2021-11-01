@@ -1,0 +1,48 @@
+body {
+
+    margin: 50px;
+    background-color: cornsilk;
+}
+
+#page4 {
+
+    float: left;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+#time, #timer {
+
+    float: right;
+    font-size: 38px;
+    line-height: 50px;
+}
+
+main {
+
+    padding-top: 50px;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+p {
+
+    text-align: center;
+    margin: 0px 200px 10px 200px;
+}
+
+#good-luck {
+
+    color:red;
+}
+
+#start-quiz {
+
+    display: block;
+    margin: 20px auto;
+    padding: 15px;
+}
+
